@@ -1,0 +1,7 @@
+nyc_taxis_data/
+.*/
+pipeline*.log
+
+target/
+project/target/
+project/project
